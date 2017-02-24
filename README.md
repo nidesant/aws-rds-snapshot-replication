@@ -1,2 +1,2 @@
 # aws-rds-snapshot-replication
-Python and shell scripts to automate RDS snapshot creation and cross-region replication. 
+Python and shell scripts to automate RDS snapshot creation and cross-region replication in AWS cloud environments. 
